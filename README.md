@@ -2,8 +2,8 @@
 
 **Hei, jeg er Sigurd**
 
-Jeg er en designer og utvikler fra Oslo. Jeg har en bachelor i interkasjonsdesign fra Høyskolen Kristiania <br/>
-og studerer fortiden en master i informatikk ved UiO. Ta gjerne kontakt hvis du vil bli bedre kjent :)
+Jeg er en designer og utvikler fra Oslo, med en bachelor i interkasjonsdesign fra Høyskolen Kristiania. <br/>
+Jeg studerer fortiden en master i informatikk ved UiO. Ta gjerne kontakt hvis du vil bli bedre kjent :)
 
 [![Kontakt](https://img.shields.io/badge/sigurd.jongers%40gmail.com-A8D5BA?style=for-the-badge)](mailto:sigurd.jongers@gmail.com)
 
