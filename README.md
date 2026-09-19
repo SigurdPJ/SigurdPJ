@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**SigurdPJ/SigurdPJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hei hei, jeg er Sigurd 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Jeg er en designer og utvikler fra Oslo, med en bachelor i interkasjonsdesign.
+For tiden studerer jeg en master i informatikk ved UiO. Ta gjerne kontakt hvis du vil bli bedre kjent!
+
+[![EPOST](https://img.shields.io/badge/Epost-242938?style=for-the-badge)](mailto:sigurd.jongers@gmail.com)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-242938?style=for-the-badge)](https://www.linkedin.com/in/sigurd-jongers-a1a51a389/)
+
+
+<br/>
+
+### Språk og teknologier:
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vite,react,bootstrap,tailwind,cs,java,nodejs,dotnet,mysql,postgres,sqlite,docker,git,github,heroku,netlify,figma,vscode,idea,unity&perline=12&theme=dark" />
+
+
+
+
