@@ -5,10 +5,10 @@
 
 Jeg er en designer og utvikler fra Oslo, med en bachelor i interkasjonsdesign.
 For tiden studerer jeg en master i informatikk ved UiO. Ta gjerne kontakt hvis du vil bli bedre kjent!
-
+<!--
 [![EPOST](https://img.shields.io/badge/Epost-242938?style=for-the-badge)](mailto:sigurd.jongers@gmail.com)
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-242938?style=for-the-badge)](https://www.linkedin.com/in/sigurd-jongers-a1a51a389/)
-
+-->
 
 <br/>
 
